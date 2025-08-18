@@ -33,4 +33,3 @@ def safe_divide(a, b):
 
 print(safe_divide(10, 2))
 print(safe_divide(5, 0))
-

@@ -29,6 +29,3 @@ def outer():
         print(f"Inner x: {x}")
 
 outer()
-
-
-
